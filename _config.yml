@@ -1,6 +1,6 @@
 name: Wulfpack
 favicon: null
-layout_spectrum: 0.057990563567727804
+layout_spectrum: 0.46027
 typography_spectrum: 0.7088337843306363
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.25306905107572675
+    - '#f1f2f7'
+    - '#1e111a'
+    - '#b3b5b4'
+    - '#584f50'
+    - '#6e7d7a'
+  brandStrength: 0.375
   lightness: 0.9933196811471134
-  saturation: 0.5688322936184704
-  rhythmicContrast: 0.04628787934780121
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
