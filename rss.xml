@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Wulfpack]]></title>
         <description><![CDATA[Wulfpack]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wulfpack/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 00:22:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 00:24:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wulfpack/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44a0c07c-eca1-4577-8ef2-0e3415c0f43a.png">]]></description>
-            <link>undefinedwelcome-to-the-wulfpack-grid-website-we-will-be-trying-this/index.html</link>
+            <link>https://thegrid.ai/wulfpack/welcome-to-the-wulfpack-grid-website-we-will-be-trying-this/index.html</link>
             <guid isPermaLink="false">b8fc8b2d-1304-428c-a5ab-29f1e1673a96</guid>
-            <pubDate>Tue, 24 May 2016 00:22:39 GMT</pubDate>
+            <pubDate>Tue, 24 May 2016 00:23:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
